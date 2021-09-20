@@ -33,7 +33,7 @@ echo ""
 sync
 echo "##############################################################"
 echo "#      levi45-addonsmanger $version INSTALLED SUCCESSFULLY             #"
-echo "#             Uploded BY tarekzoka              #"
+echo "#             Uploded BY TAREK_ZOK              #"
 echo "**************************************************************"
 echo "
   88888      8   8        8   8
