@@ -15,7 +15,7 @@ echo "
 version=3.4
 TMP=/tmp
 # remove old plugin  #
-rm -rf /usr/lib/enigma2/python/plugins/Extensions/Levi45Addons
+rm -rf /usr/lib/enigma2/python/plugins/Extensions/Levi45Addonsaddonsmanager
 my_em="*******************************************************************************************************"
 echo $my_em
 echo ""
