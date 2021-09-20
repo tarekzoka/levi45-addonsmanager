@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-echo "#             Uploded BY TAREK_ZOK              #"
+echo "#             Uploded BY               #"
 echo "**************************************************************"
 echo "
   ======      =   =        =   =
@@ -15,7 +15,7 @@ echo "
 version=3.4
 TMP=/tmp
 # remove old plugin  #
-rm -rf /usr/lib/enigma2/python/plugins/Extensions/Levi45Addonsaddonsmanager
+rm -rf /usr/lib/enigma2/python/plugins/Extensions/Levi45Addons
 my_em="*******************************************************************************************************"
 echo $my_em
 echo ""
@@ -33,7 +33,7 @@ echo ""
 sync
 echo "##############################################################"
 echo "#      levi45-addonsmanger $version INSTALLED SUCCESSFULLY             #"
-echo "#             Uploded BY TAREK_ZOK              #"
+echo "#             Uploded BY               #"
 echo "**************************************************************"
 echo "
   88888      8   8        8   8
